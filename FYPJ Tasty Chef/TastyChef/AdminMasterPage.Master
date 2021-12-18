@@ -1,0 +1,141 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMasterPage.master.cs" Inherits="TastyChef.AdminMasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="https://fonts.googleapis.com/css?family=Mogra" rel="stylesheet">
+    <style>
+        #contentplaceholder {
+            border-color: blue;
+            color: blue;
+            /*background-color: #F8F8FF;*/
+        }
+
+
+        body {
+            background-color: #FFF3EA;
+        }
+
+        #navigationbar {
+            /*margin-top: 0.5%; #4fbfa8*/
+            background-color: #4DB6AC;
+            height: 90px;
+        }
+
+        #companyname {
+            font-family: 'Mogra', cursive;
+            text-align: center;
+            font-size: 60px;
+            text-shadow: 3px 3px 3px rgba(163, 218, 101, 1);
+            margin-top: 3%;
+            color: #4DB6AC;
+        }
+
+
+        .auto-style1 {
+            width: 100%;
+        }
+
+
+        .auto-style2 {
+            text-align: center;
+        }
+
+        #logoutButton {
+            margin-left: 90%;
+        }
+
+
+        .auto-style3 {
+            height: 16px;
+        }
+    </style>
+    <style>
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        /* Dropdown Content (Hidden by Default) */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: white;
+            min-width: 250px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+            font-family: Arial;
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #4DB6AC;
+                }
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /* Change the background color of the dropdown button when the dropdown content is shown */
+        .dropdown:hover .dropbtn {
+            background-color: #4DB6AC;
+        }
+    </style>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="height: 1000px">
+    <form id="form1" runat="server">
+
+        <div id="navigationbar">
+
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style2">
+                        <asp:Button ID="Button1" runat="server" Text="Tasty Chef" Font-Bold="False" Font-Names="'Mogra',cursive" Font-Size="60px" BackColor="#4DB6AC" BorderStyle="None" Width="350px" Height="75px" ForeColor="White" OnClick="Button1_Click" /></td>
+                    <td class="auto-style2">
+                        <div class="dropdown">
+                            <asp:Button ID="BtnIngredients" runat="server" Text="Ingredients" Font-Bold="False" Font-Names="'Mogra',cursive" Font-Size="34px" BackColor="#4DB6AC" BorderStyle="None" Width="200px" ForeColor="White" />
+                            <div class="dropdown-content">
+                                <a href="AdminIngredientInsertPage.aspx">Add Ingredient</a>
+                                <a href="AdminIngredientManagePage.aspx">Manage Ingredients</a>
+
+
+                            </div>
+                        </div>
+                    </td>
+                    <td class="auto-style2">
+                        <div class="dropdown">
+                            <asp:Button ID="BtnRecipe" runat="server" Text="Recipe" Font-Bold="False" Font-Names="'Mogra',cursive" Font-Size="34px" BackColor="#4DB6AC" BorderStyle="None" Height="60px" Width="150px" OnClick="BtnRecipe_Click" ForeColor="White" />
+                            <div class="dropdown-content">
+                                <a href="AdminRecipeManage.aspx">View Recipe</a>
+                                <a href="AdminInsertRecipeStep1.aspx">Create Recipe</a>
+                                
+                            </div>
+                        </div>
+
+                    </td>
+
+                    <td class="auto-style2">
+                        <asp:Button ID="BtnOrder" runat="server" Text="Order" Font-Bold="False" Font-Names="'Mogra',cursive" Font-Size="34px" BackColor="#4DB6AC" BorderStyle="None" Width="150px" ForeColor="White" /></td>
+                    <td></td>
+                </tr>
+            </table>
+
+        </div>
+        <div id="contentplaceholder">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

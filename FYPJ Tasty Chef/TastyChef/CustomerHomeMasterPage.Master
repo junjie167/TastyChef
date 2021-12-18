@@ -1,0 +1,197 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CustomerHomeMasterPage.master.cs" Inherits="TastyChef.CustomerHomeMasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+    <title>Tasty Chef</title>
+       <style>
+       .f{
+           background-color:#4DB6AC;
+            position:relative;
+           bottom:0px;
+           width:100%;
+       }
+       .branddesign{
+           font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+           color:white;
+           font-size:3.5em;
+       }
+       
+    </style>
+
+     <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+     <!-- Custom Fonts -->
+    <link href="font/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css"/>
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'/>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'/>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css' />
+
+    <link href="css/CustomerHomeMasterPage.min.css" rel="stylesheet" />
+
+   <link href="css/CustomerHomeMasterPage.css" rel="stylesheet" />
+    <link href="css/CustomerLogin.css" rel="stylesheet" />
+    <style>
+        .w3-modal{
+            top:50px;
+        }
+        .w3-center{
+               background-color:#4DB6AC;
+           }
+        .w3-green{
+            background-color:#4DB6AC;
+        }
+        .w3-section{
+            font-size:1.3em;
+            font-family:Arial;
+        }
+        .w3-light-grey{
+             font-size:1.3em;
+            font-family:Arial;
+        }
+    </style>
+
+    <script src="jquery/jquery.min.js"></script>
+<%--    <script src="jquery/jquery.js"></script>--%>
+    <script src="js/bootstrap.min.js"></script>
+<%--    <script src="js/bootstrap.js"></script>--%>
+
+   <%--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>--%>
+
+<%--    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb" crossorigin="anonymous"></script>--%>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand page-scroll" href="CustomerHomePage.aspx">Tasty Chef</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right ">
+                        <li class="hidden">
+                            <a href="#"></a>
+                        </li>
+                        <li class="dropdown">
+                            <a  class="dropdown-toggle" data-toggle="dropdown" href="#">Recipe<b class="caret"></b></a>
+                              <ul class="dropdown-menu">
+                                <li>
+                                    <a href="CustomerAllRecipe1.aspx" runat="server"  style="font-size:14px; color:black;">All Recipe</a> 
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#portfolio">Services</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="TastyChefAbout.aspx">About</a>
+                        </li>
+                        <li>
+                            <a class="#" runat="server" onserverclick="Unnamed_ServerClick" >Shopping Cart</a>
+                        </li>
+                        <li class="dropdown"  onclick="document.getElementById('id01').style.display='block'" >
+                            <a class="dropdown-toggle"  data-toggle="dropdown"  href="#">Login</a>
+                            
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+
+          <!-- Login PopOut -->
+
+          <div id="id01" class="w3-modal"  runat="server">
+            <span onclick="document.getElementById('id01').style.display='none'"
+                class="w3-closebtn w3-hover-red w3-container w3-padding-16 w3-display-topright w3-xxlarge">×</span>
+            <div class="w3-modal-content w3-card-8 w3-animate-zoom" style="max-width: 600px">
+
+                <div class="w3-center">
+                    <br />
+                    <asp:Label ID="brand" CssClass="w3-margin-top w3-circle branddesign" Text="Tasty Chef" runat="server"></asp:Label>
+                    <br />
+                    &nbsp;
+<%--                    <img src="img/TastyChefLogo.png" alt="Avatar" style="width: 25%" class="w3-circle w3-margin-top" />--%>
+                </div>
+
+                <div class="w3-container" runat="server">
+                    <div class="w3-section">
+                        <label><b>Email Address</b></label>
+                        <asp:RequiredFieldValidator ID="require1" ControlToValidate="username" ErrorMessage="*Required" ForeColor="Red" ValidationGroup="s" runat="server"></asp:RequiredFieldValidator>
+                        <asp:Label ID="errormsg" runat="server" ForeColor="Red"></asp:Label>
+                        <asp:TextBox ID="username" class="w3-input w3-border w3-hover-border-black w3-margin-bottom" placeholder="Enter Email Address" name="username" autocomplete="off" runat="server"></asp:TextBox>
+                        <label><b>Password</b></label>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" ControlToValidate="password" ErrorMessage="*Required" ForeColor="Red" ValidationGroup="s" runat="server"></asp:RequiredFieldValidator>
+                        <asp:Label ID="errormsg2" runat="server" ForeColor="Red"></asp:Label><asp:Label ID="pinnn" runat="server"></asp:Label>
+                        <asp:TextBox ID="password" class="w3-input w3-border w3-hover-border-black" TextMode="Password" placeholder="Enter Password" runat="server"></asp:TextBox>
+
+
+
+
+
+
+
+                    </div>
+                        <asp:Button ID="sub" CssClass="w3-btn-block w3-green w3-section w3-padding" OnClick="login" Text="Login" ValidationGroup="s" runat="server" />
+                        <asp:Button ID="signUp" CssClass="w3-btn-block w3-green w3-section w3-padding" Text="Sign Up" runat="server" OnClick="signup_Click" />
+                </div>
+
+                <div class="w3-container w3-border-top w3-padding-16 w3-light-grey">
+
+                    <button onclick="document.getElementById('id01').style.display='none'" type="button" class="w3-btn w3-red">Cancel</button>
+                    <span class="w3-right w3-padding w3-hide-small">Forgot <a href="#">password?</a></span>
+                </div>
+
+            </div>
+        </div>
+
+    <div style="background-color:#FFF3EA">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <div class="f">
+        <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; Tasty Chef 2017</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

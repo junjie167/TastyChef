@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CalculateBMI">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="h" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="w" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateBMIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalculateBMIResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="weightstatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="bmi" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="weightstatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="weightstatusResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateBMR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="h" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="w" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="age" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="gender" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateBMRResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalculateBMRResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateCalories">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="bmr" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="activity" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="weightstatus" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateCaloriesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalculateCaloriesResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="levelCarbohydrate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="weightstatus" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="medical" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="levelCarbohydrateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="levelCarbohydrateResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateProteinRange">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="level" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="calories" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateProteinRangeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CalculateProteinRangeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateCarbohydrateRange">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="level" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="calories" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateCarbohydrateRangeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CalculateCarbohydrateRangeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateFatRange">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="level" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="calories" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateFatRangeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CalculateFatRangeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateProtein">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="calories" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateProteinResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalculateProteinResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateFats">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="calories" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateFatsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalculateFatsResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateCarbohydrate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="calories" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalculateCarbohydrateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CalculateCarbohydrateResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CalculateBMISoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateBMI" />
+  </wsdl:message>
+  <wsdl:message name="CalculateBMISoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateBMIResponse" />
+  </wsdl:message>
+  <wsdl:message name="weightstatusSoapIn">
+    <wsdl:part name="parameters" element="tns:weightstatus" />
+  </wsdl:message>
+  <wsdl:message name="weightstatusSoapOut">
+    <wsdl:part name="parameters" element="tns:weightstatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateBMRSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateBMR" />
+  </wsdl:message>
+  <wsdl:message name="CalculateBMRSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateBMRResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateCaloriesSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateCalories" />
+  </wsdl:message>
+  <wsdl:message name="CalculateCaloriesSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateCaloriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="levelCarbohydrateSoapIn">
+    <wsdl:part name="parameters" element="tns:levelCarbohydrate" />
+  </wsdl:message>
+  <wsdl:message name="levelCarbohydrateSoapOut">
+    <wsdl:part name="parameters" element="tns:levelCarbohydrateResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateProteinRangeSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateProteinRange" />
+  </wsdl:message>
+  <wsdl:message name="CalculateProteinRangeSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateProteinRangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateCarbohydrateRangeSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateCarbohydrateRange" />
+  </wsdl:message>
+  <wsdl:message name="CalculateCarbohydrateRangeSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateCarbohydrateRangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateFatRangeSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateFatRange" />
+  </wsdl:message>
+  <wsdl:message name="CalculateFatRangeSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateFatRangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateProteinSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateProtein" />
+  </wsdl:message>
+  <wsdl:message name="CalculateProteinSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateProteinResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateFatsSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateFats" />
+  </wsdl:message>
+  <wsdl:message name="CalculateFatsSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateFatsResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalculateCarbohydrateSoapIn">
+    <wsdl:part name="parameters" element="tns:CalculateCarbohydrate" />
+  </wsdl:message>
+  <wsdl:message name="CalculateCarbohydrateSoapOut">
+    <wsdl:part name="parameters" element="tns:CalculateCarbohydrateResponse" />
+  </wsdl:message>
+  <wsdl:portType name="NutritionAssessmentSoap">
+    <wsdl:operation name="CalculateBMI">
+      <wsdl:input message="tns:CalculateBMISoapIn" />
+      <wsdl:output message="tns:CalculateBMISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="weightstatus">
+      <wsdl:input message="tns:weightstatusSoapIn" />
+      <wsdl:output message="tns:weightstatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateBMR">
+      <wsdl:input message="tns:CalculateBMRSoapIn" />
+      <wsdl:output message="tns:CalculateBMRSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCalories">
+      <wsdl:input message="tns:CalculateCaloriesSoapIn" />
+      <wsdl:output message="tns:CalculateCaloriesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="levelCarbohydrate">
+      <wsdl:input message="tns:levelCarbohydrateSoapIn" />
+      <wsdl:output message="tns:levelCarbohydrateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateProteinRange">
+      <wsdl:input message="tns:CalculateProteinRangeSoapIn" />
+      <wsdl:output message="tns:CalculateProteinRangeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCarbohydrateRange">
+      <wsdl:input message="tns:CalculateCarbohydrateRangeSoapIn" />
+      <wsdl:output message="tns:CalculateCarbohydrateRangeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateFatRange">
+      <wsdl:input message="tns:CalculateFatRangeSoapIn" />
+      <wsdl:output message="tns:CalculateFatRangeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateProtein">
+      <wsdl:input message="tns:CalculateProteinSoapIn" />
+      <wsdl:output message="tns:CalculateProteinSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateFats">
+      <wsdl:input message="tns:CalculateFatsSoapIn" />
+      <wsdl:output message="tns:CalculateFatsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCarbohydrate">
+      <wsdl:input message="tns:CalculateCarbohydrateSoapIn" />
+      <wsdl:output message="tns:CalculateCarbohydrateSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NutritionAssessmentSoap" type="tns:NutritionAssessmentSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CalculateBMI">
+      <soap:operation soapAction="http://tempuri.org/CalculateBMI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="weightstatus">
+      <soap:operation soapAction="http://tempuri.org/weightstatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateBMR">
+      <soap:operation soapAction="http://tempuri.org/CalculateBMR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCalories">
+      <soap:operation soapAction="http://tempuri.org/CalculateCalories" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="levelCarbohydrate">
+      <soap:operation soapAction="http://tempuri.org/levelCarbohydrate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateProteinRange">
+      <soap:operation soapAction="http://tempuri.org/CalculateProteinRange" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCarbohydrateRange">
+      <soap:operation soapAction="http://tempuri.org/CalculateCarbohydrateRange" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateFatRange">
+      <soap:operation soapAction="http://tempuri.org/CalculateFatRange" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateProtein">
+      <soap:operation soapAction="http://tempuri.org/CalculateProtein" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateFats">
+      <soap:operation soapAction="http://tempuri.org/CalculateFats" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCarbohydrate">
+      <soap:operation soapAction="http://tempuri.org/CalculateCarbohydrate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="NutritionAssessmentSoap12" type="tns:NutritionAssessmentSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CalculateBMI">
+      <soap12:operation soapAction="http://tempuri.org/CalculateBMI" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="weightstatus">
+      <soap12:operation soapAction="http://tempuri.org/weightstatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateBMR">
+      <soap12:operation soapAction="http://tempuri.org/CalculateBMR" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCalories">
+      <soap12:operation soapAction="http://tempuri.org/CalculateCalories" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="levelCarbohydrate">
+      <soap12:operation soapAction="http://tempuri.org/levelCarbohydrate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateProteinRange">
+      <soap12:operation soapAction="http://tempuri.org/CalculateProteinRange" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCarbohydrateRange">
+      <soap12:operation soapAction="http://tempuri.org/CalculateCarbohydrateRange" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateFatRange">
+      <soap12:operation soapAction="http://tempuri.org/CalculateFatRange" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateProtein">
+      <soap12:operation soapAction="http://tempuri.org/CalculateProtein" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateFats">
+      <soap12:operation soapAction="http://tempuri.org/CalculateFats" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateCarbohydrate">
+      <soap12:operation soapAction="http://tempuri.org/CalculateCarbohydrate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="NutritionAssessment">
+    <wsdl:port name="NutritionAssessmentSoap" binding="tns:NutritionAssessmentSoap">
+      <soap:address location="http://localhost:56745/NutritionAssessment.asmx" />
+    </wsdl:port>
+    <wsdl:port name="NutritionAssessmentSoap12" binding="tns:NutritionAssessmentSoap12">
+      <soap12:address location="http://localhost:56745/NutritionAssessment.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

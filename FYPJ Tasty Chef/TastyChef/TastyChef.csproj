@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E4C684F8-B1CC-489E-A7AD-67D140263975}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TastyChef</RootNamespace>
+    <AssemblyName>TastyChef</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\..\TastyChef Version 1\Bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\itextsharp-all-5.5.9\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\..\..\itextsharp-all-5.5.9\itextsharp-dll-pdfa\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.1\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.0.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.0.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.0.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.0.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.0.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.0.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdminIngredientInsertPage.aspx" />
+    <Content Include="AdminInsertRecipeConfirmation.aspx" />
+    <Content Include="AdminInsertRecipeStep1.aspx" />
+    <Content Include="AdminInsertRecipeStep2.aspx" />
+    <Content Include="AdminInsertRecipeStep3.aspx" />
+    <Content Include="AdminInsertRecipeStep4.aspx" />
+    <Content Include="AdminInsertRecipeStep5.aspx" />
+    <Content Include="AdminLoginPage.aspx" />
+    <Content Include="AdminNutritionGroupInsert.aspx" />
+    <Content Include="AdminRecipeDetials.aspx" />
+    <Content Include="AdminRecipeManage.aspx" />
+    <Content Include="AdminSignUpPage.aspx" />
+    <Content Include="App_Data\TastyChef.mdf" />
+    <Content Include="App_Data\TastyChef_log.ldf">
+      <DependentUpon>TastyChef.mdf</DependentUpon>
+    </Content>
+    <Content Include="Cookware\Cast Iron Skillet.jpg" />
+    <Content Include="Cookware\Frying Pan.jpg" />
+    <Content Include="Cookware\Grill Pan.jpg" />
+    <Content Include="Cookware\Sauce Pan.jpg" />
+    <Content Include="Cookware\Stock Pot.jpg" />
+    <Content Include="Cookware\Wok.jpg" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\CustomerHomeMasterPage.css" />
+    <Content Include="css\CustomerHomeMasterPage.min.css" />
+    <Content Include="css\CustomerLogin.css" />
+    <Content Include="css\CustomerNutritionAssessment.css" />
+    <Content Include="css\CustomerRegistration.css" />
+    <Content Include="CustomerAllRecipe.aspx" />
+    <Content Include="CustomerAllRecipe1.aspx" />
+    <Content Include="CustomerDeliveryRegister.aspx" />
+    <Content Include="CustomerFoodQuestionnaire.aspx" />
+    <Content Include="CustomerHomePage.aspx" />
+    <Content Include="CustomerMedicateCondition1.aspx" />
+    <Content Include="CustomerNutritionAssessementAfter.aspx" />
+    <Content Include="CustomerNutritionAssessment.aspx" />
+    <Content Include="CustomerNutritionAssessment1.aspx" />
+    <Content Include="CustomerNutritionAssessmentDetails.aspx" />
+    <Content Include="CustomerNutritionProfile.aspx" />
+    <Content Include="CustomerPersonalDetails1.aspx" />
+    <Content Include="CustomerPhysicalRegister.aspx" />
+    <Content Include="CustomerRecipeDetails.aspx" />
+    <Content Include="CustomerRecipeRecommendation.aspx" />
+    <Content Include="CustomerRecipeRecommendation1.aspx" />
+    <Content Include="CustomerRegistration.aspx" />
+    <Content Include="CustomerShoppingCart.aspx" />
+    <Content Include="CustomerSummary.aspx" />
+    <Content Include="font\font-awesome.min.css" />
+    <Content Include="Images\Details.PNG" />
+    <Content Include="Images\DownSelectButton.PNG" />
+    <Content Include="Images\Drawing %281%29 - Copy.png" />
+    <Content Include="Images\Loading_icon.gif" />
+    <Content Include="Images\RemoveButton.PNG" />
+    <Content Include="Images\SelectButton.PNG" />
+    <Content Include="Images\UpSelectButton.PNG" />
+    <Content Include="img\-collection of 1900 x 1080 desktop wallpapers for desktop backgrounds.png" />
+    <Content Include="img\ajax-loader.gif" />
+    <Content Include="img\cookingtime.png" />
+    <Content Include="img\deleteicon.png" />
+    <Content Include="img\divder2.PNG" />
+    <Content Include="img\editicon.jpg" />
+    <Content Include="img\extremactive.png" />
+    <Content Include="img\food1.jpg" />
+    <Content Include="img\food2.jpg" />
+    <Content Include="img\food3.jpg" />
+    <Content Include="img\information.png" />
+    <Content Include="img\lightlyactive.png" />
+    <Content Include="img\meal.png" />
+    <Content Include="img\next.png" />
+    <Content Include="img\piechart.PNG" />
+    <Content Include="img\portion.png" />
+    <Content Include="img\previous.png" />
+    <Content Include="img\questionmark.png" />
+    <Content Include="img\running.png" />
+    <Content Include="img\sedantary.png" />
+    <Content Include="img\TastyChefLogo.png" />
+    <Content Include="img\walk.png" />
+    <Content Include="Ingredients Images\asparagus.jpg" />
+    <Content Include="Ingredients Images\Beef.jpg" />
+    <Content Include="Ingredients Images\Broccoli.jpg" />
+    <Content Include="Ingredients Images\Cabbage.jpg" />
+    <Content Include="Ingredients Images\Carrots.jpg" />
+    <Content Include="Ingredients Images\Chicken Breast.jpg" />
+    <Content Include="Ingredients Images\Chili Powder.jpg" />
+    <Content Include="Ingredients Images\Chopped Baccon.jpg" />
+    <Content Include="Ingredients Images\Cooked Brown Rice.jpg" />
+    <Content Include="Ingredients Images\Corn Tortillas.jpg" />
+    <Content Include="Ingredients Images\Egg.jpg" />
+    <Content Include="Ingredients Images\Eggplant.jpg" />
+    <Content Include="Ingredients Images\Fish Fillet.jpg" />
+    <Content Include="Ingredients Images\Fried Tofu.jpg" />
+    <Content Include="Ingredients Images\Garlic.jpg" />
+    <Content Include="Ingredients Images\Ginger Juice.jpg" />
+    <Content Include="Ingredients Images\Ground Pepper.jpg" />
+    <Content Include="Ingredients Images\Honey.jpg" />
+    <Content Include="Ingredients Images\King Prawn.jpg" />
+    <Content Include="Ingredients Images\Light Soy Sauce.jpg" />
+    <Content Include="Ingredients Images\Lime Juice.jpg" />
+    <Content Include="Ingredients Images\Meatball.jpg" />
+    <Content Include="Ingredients Images\Mirin.jpg" />
+    <Content Include="Ingredients Images\Mozzarella.png" />
+    <Content Include="Ingredients Images\Onion.jpg" />
+    <Content Include="Ingredients Images\Pork Chop.jpg" />
+    <Content Include="Ingredients Images\portobello Mushroom.jpg" />
+    <Content Include="Ingredients Images\prawns.jpg" />
+    <Content Include="Ingredients Images\Ramen Noodles.jpg" />
+    <Content Include="Ingredients Images\Red Miso.jpg" />
+    <Content Include="Ingredients Images\Red Pepper.jpg" />
+    <Content Include="Ingredients Images\Salt.jpg" />
+    <Content Include="Ingredients Images\Scallions.jpg" />
+    <Content Include="Ingredients Images\Sesame Oil.jpg" />
+    <Content Include="Ingredients Images\Spinach.jpg" />
+    <Content Include="Ingredients Images\Sunflower Oil.jpg" />
+    <Content Include="Ingredients Images\Tomato.jpg" />
+    <Content Include="Ingredients Images\Udon Noddles.jpg" />
+    <Content Include="jquery\jquery.js" />
+    <Content Include="jquery\jquery.min.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="packages.config" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AdminMasterPage.Master" />
+    <Content Include="CustomerHomeMasterPage.Master" />
+    <Content Include="CustomerMasterPage.Master" />
+    <None Include="Service References\TastyChefNutritionAssessmentWS\NutritionAssessment.wsdl" />
+    <Content Include="Recipe images\Boneless Pork Chops with Mushrooms &amp; Thyme.jpg" />
+    <Content Include="Recipe images\Broiled Miso-Glazed Chicken Breast.jpg" />
+    <Content Include="Recipe images\Chicken with Mozzarella.jpg" />
+    <Content Include="Recipe images\Chicken-Tofu Stir Fry%27.jpg" />
+    <Content Include="Recipe images\Fish Tacos with Herby Slaw.jpg" />
+    <Content Include="Recipe images\Garlic-Rosemary Mushrooms.jpg" />
+    <Content Include="Recipe images\Ginger Vegetable Stir-Fry.jpg" />
+    <Content Include="Recipe images\Hoisin and Citrus Shrimp Sauté.jpg" />
+    <Content Include="Recipe images\Honey Garlic Chicken.jpg" />
+    <Content Include="Recipe images\Kung Pao Chicken.jpg" />
+    <Content Include="Recipe images\Lemon-Herb Salmon with Caponata &amp; Farro.jpg" />
+    <Content Include="Recipe images\Prawn and Vegetable Pilau.jpg" />
+    <Content Include="Recipe images\Ramen Noodles with Peanut Sauce and Peppers.jpg" />
+    <Content Include="Recipe images\Sauteed Snapper &amp; Shrimp.jpg" />
+    <Content Include="Recipe images\Sesame Orange Beef.jpg" />
+    <Content Include="Recipe images\Summer Vegetables Soup with Herb Pistou.jpg" />
+    <Content Include="Recipe images\Sweet and Sour Chicken with Vegetables.jpg" />
+    <Content Include="Recipe images\Tamari-Ginger Meatball &amp; Eggplant Casserole.jpg" />
+    <Content Include="Recipe images\Thai Pork Stir-Fry.jpg" />
+    <Content Include="Recipe images\Thai Stir Fried Noodles.jpg" />
+    <Content Include="Recipe images\Vegetable Lo Mein.jpg" />
+    <Content Include="Recipe images\Wok-Seared Chicken Tenders with Asparagus &amp; Pistachios.jpg" />
+    <Content Include="Service References\TastyChefNutritionAssessmentWS\TastyChef.TastyChefNutritionAssessmentWS.CalculateBMRResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\TastyChefNutritionAssessmentWS\TastyChef.TastyChefNutritionAssessmentWS.CalculateCaloriesResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\TastyChefNutritionAssessmentWS\TastyChef.TastyChefNutritionAssessmentWS.CalculateCarbohydrateRangeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\TastyChefNutritionAssessmentWS\TastyChef.TastyChefNutritionAssessmentWS.CalculateFatRangeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\TastyChefNutritionAssessmentWS\TastyChef.TastyChefNutritionAssessmentWS.CalculateProteinRangeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\TastyChefNutritionAssessmentWS\TastyChef.TastyChefNutritionAssessmentWS.levelCarbohydrateResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\TastyChefNutritionAssessmentWS\TastyChef.TastyChefNutritionAssessmentWS.weightstatusResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdminHomePage.aspx" />
+    <Content Include="scripts\ai.0.22.9-build00167.js" />
+    <Content Include="scripts\ai.0.22.9-build00167.min.js" />
+    <None Include="Service References\TastyChefNutritionAssessmentWS\NutritionAssessment.disco" />
+    <None Include="Service References\TastyChefNutritionAssessmentWS\configuration91.svcinfo" />
+    <None Include="Service References\TastyChefNutritionAssessmentWS\configuration.svcinfo" />
+    <None Include="Service References\TastyChefNutritionAssessmentWS\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="TastyChefAbout.aspx" />
+    <Content Include="TastyChefContact.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminHomePage.aspx.cs">
+      <DependentUpon>AdminHomePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminHomePage.aspx.designer.cs">
+      <DependentUpon>AdminHomePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminIngredientInsertPage.aspx.cs">
+      <DependentUpon>AdminIngredientInsertPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminIngredientInsertPage.aspx.designer.cs">
+      <DependentUpon>AdminIngredientInsertPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertRecipeConfirmation.aspx.cs">
+      <DependentUpon>AdminInsertRecipeConfirmation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminInsertRecipeConfirmation.aspx.designer.cs">
+      <DependentUpon>AdminInsertRecipeConfirmation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep1.aspx.cs">
+      <DependentUpon>AdminInsertRecipeStep1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep1.aspx.designer.cs">
+      <DependentUpon>AdminInsertRecipeStep1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep2.aspx.cs">
+      <DependentUpon>AdminInsertRecipeStep2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep2.aspx.designer.cs">
+      <DependentUpon>AdminInsertRecipeStep2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep3.aspx.cs">
+      <DependentUpon>AdminInsertRecipeStep3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep3.aspx.designer.cs">
+      <DependentUpon>AdminInsertRecipeStep3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep4.aspx.cs">
+      <DependentUpon>AdminInsertRecipeStep4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep4.aspx.designer.cs">
+      <DependentUpon>AdminInsertRecipeStep4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep5.aspx.cs">
+      <DependentUpon>AdminInsertRecipeStep5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminInsertRecipeStep5.aspx.designer.cs">
+      <DependentUpon>AdminInsertRecipeStep5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLoginPage.aspx.cs">
+      <DependentUpon>AdminLoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminLoginPage.aspx.designer.cs">
+      <DependentUpon>AdminLoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMasterPage.Master.cs">
+      <DependentUpon>AdminMasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminMasterPage.Master.designer.cs">
+      <DependentUpon>AdminMasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNutritionGroupInsert.aspx.cs">
+      <DependentUpon>AdminNutritionGroupInsert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminNutritionGroupInsert.aspx.designer.cs">
+      <DependentUpon>AdminNutritionGroupInsert.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRecipeDetials.aspx.cs">
+      <DependentUpon>AdminRecipeDetials.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminRecipeDetials.aspx.designer.cs">
+      <DependentUpon>AdminRecipeDetials.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRecipeManage.aspx.cs">
+      <DependentUpon>AdminRecipeManage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminRecipeManage.aspx.designer.cs">
+      <DependentUpon>AdminRecipeManage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSignUpPage.aspx.cs">
+      <DependentUpon>AdminSignUpPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminSignUpPage.aspx.designer.cs">
+      <DependentUpon>AdminSignUpPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerAllRecipe.aspx.cs">
+      <DependentUpon>CustomerAllRecipe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerAllRecipe.aspx.designer.cs">
+      <DependentUpon>CustomerAllRecipe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerAllRecipe1.aspx.cs">
+      <DependentUpon>CustomerAllRecipe1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerAllRecipe1.aspx.designer.cs">
+      <DependentUpon>CustomerAllRecipe1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerDeliveryRegister.aspx.cs">
+      <DependentUpon>CustomerDeliveryRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerDeliveryRegister.aspx.designer.cs">
+      <DependentUpon>CustomerDeliveryRegister.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerFoodQuestionnaire.aspx.cs">
+      <DependentUpon>CustomerFoodQuestionnaire.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerFoodQuestionnaire.aspx.designer.cs">
+      <DependentUpon>CustomerFoodQuestionnaire.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerHomeMasterPage.Master.cs">
+      <DependentUpon>CustomerHomeMasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerHomeMasterPage.Master.designer.cs">
+      <DependentUpon>CustomerHomeMasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerHomePage.aspx.cs">
+      <DependentUpon>CustomerHomePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerHomePage.aspx.designer.cs">
+      <DependentUpon>CustomerHomePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMasterPage.Master.cs">
+      <DependentUpon>CustomerMasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerMasterPage.Master.designer.cs">
+      <DependentUpon>CustomerMasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMedicateCondition1.aspx.cs">
+      <DependentUpon>CustomerMedicateCondition1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerMedicateCondition1.aspx.designer.cs">
+      <DependentUpon>CustomerMedicateCondition1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessementAfter.aspx.cs">
+      <DependentUpon>CustomerNutritionAssessementAfter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessementAfter.aspx.designer.cs">
+      <DependentUpon>CustomerNutritionAssessementAfter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessment.aspx.cs">
+      <DependentUpon>CustomerNutritionAssessment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessment.aspx.designer.cs">
+      <DependentUpon>CustomerNutritionAssessment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessment1.aspx.cs">
+      <DependentUpon>CustomerNutritionAssessment1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessment1.aspx.designer.cs">
+      <DependentUpon>CustomerNutritionAssessment1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessmentDetails.aspx.cs">
+      <DependentUpon>CustomerNutritionAssessmentDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerNutritionAssessmentDetails.aspx.designer.cs">
+      <DependentUpon>CustomerNutritionAssessmentDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerNutritionProfile.aspx.cs">
+      <DependentUpon>CustomerNutritionProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerNutritionProfile.aspx.designer.cs">
+      <DependentUpon>CustomerNutritionProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerPersonalDetails1.aspx.cs">
+      <DependentUpon>CustomerPersonalDetails1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerPersonalDetails1.aspx.designer.cs">
+      <DependentUpon>CustomerPersonalDetails1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerPhysicalRegister.aspx.cs">
+      <DependentUpon>CustomerPhysicalRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerPhysicalRegister.aspx.designer.cs">
+      <DependentUpon>CustomerPhysicalRegister.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerRecipeDetails.aspx.cs">
+      <DependentUpon>CustomerRecipeDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerRecipeDetails.aspx.designer.cs">
+      <DependentUpon>CustomerRecipeDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerRecipeRecommendation.aspx.cs">
+      <DependentUpon>CustomerRecipeRecommendation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerRecipeRecommendation.aspx.designer.cs">
+      <DependentUpon>CustomerRecipeRecommendation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerRecipeRecommendation1.aspx.cs">
+      <DependentUpon>CustomerRecipeRecommendation1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerRecipeRecommendation1.aspx.designer.cs">
+      <DependentUpon>CustomerRecipeRecommendation1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerRegistration.aspx.cs">
+      <DependentUpon>CustomerRegistration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerRegistration.aspx.designer.cs">
+      <DependentUpon>CustomerRegistration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerShoppingCart.aspx.cs">
+      <DependentUpon>CustomerShoppingCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerShoppingCart.aspx.designer.cs">
+      <DependentUpon>CustomerShoppingCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSummary.aspx.cs">
+      <DependentUpon>CustomerSummary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerSummary.aspx.designer.cs">
+      <DependentUpon>CustomerSummary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Admin.cs" />
+    <Compile Include="DAL\CookingInstruction.cs" />
+    <Compile Include="DAL\Cookware.cs" />
+    <Compile Include="DAL\CustomEditor.cs" />
+    <Compile Include="DAL\CustomerFoodQuestionnaireClass.cs" />
+    <Compile Include="DAL\CustomerNutrtionProfileClass.cs" />
+    <Compile Include="DAL\CustomerPhysicalRegisterClass.cs" />
+    <Compile Include="DAL\CustomerRegistrationClass.cs" />
+    <Compile Include="DAL\CustomerViewRecipe.cs" />
+    <Compile Include="DAL\FoodAllergens.cs" />
+    <Compile Include="DAL\Ingredients.cs" />
+    <Compile Include="DAL\ListOfIngredients.cs" />
+    <Compile Include="DAL\NutritionGroup.cs" />
+    <Compile Include="DAL\Recipe.cs" />
+    <Compile Include="DAL\TailoredMadeRecipes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\TastyChefNutritionAssessmentWS\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="TastyChefAbout.aspx.cs">
+      <DependentUpon>TastyChefAbout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TastyChefAbout.aspx.designer.cs">
+      <DependentUpon>TastyChefAbout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TastyChefContact.aspx.cs">
+      <DependentUpon>TastyChefContact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TastyChefContact.aspx.designer.cs">
+      <DependentUpon>TastyChefContact.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\TastyChefNutritionAssessmentWS\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50418</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50418/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

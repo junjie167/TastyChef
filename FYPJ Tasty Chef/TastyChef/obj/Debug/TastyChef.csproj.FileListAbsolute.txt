@@ -1,0 +1,581 @@
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\ApplicationInsights.config
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\csc.exe
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll.config
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.pdb
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\ApplicationInsights.config
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\csc.exe
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll.config
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.pdb
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\junjie\Downloads\3_7_2017\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\ApplicationInsights.config
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\csc.exe
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll.config
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.pdb
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\junjie\Downloads\5_7_2017\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\ApplicationInsights.config
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\csc.exe
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll.config
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\TastyChef.pdb
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\itextsharp.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\itextsharp.pdfa.dll
+C:\Users\junjie\Downloads\10_7_2017(3)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\TastyChef\bin\itextsharp.xml
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\AjaxControlToolkit.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\itextsharp.xml
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\21_7_2017\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\AjaxControlToolkit.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\itextsharp.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\ApplicationInsights.config
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\csc.exe
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\TastyChef.dll.config
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\TastyChef.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\TastyChef.pdb
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\itextsharp.xml
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junjie\Downloads\29_7_2017\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\itextsharp.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\ApplicationInsights.config
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\csc.exe
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll.config
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.pdb
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\itextsharp.xml
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\junjie\Downloads\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\itextsharp.xml
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\1_8_2017(Integrated)\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\ApplicationInsights.config
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\csc.exe
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll.config
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.pdb
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\itextsharp.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\itextsharp.pdfa.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\itextsharp.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\junjie\Downloads\FYP Tasty Chef (1)\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\itextsharp.xml
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\FYP TASTY CHEF INTEGRATED\FYP Tasty Chef\FYP Tasty Chef\FYP Tasty Chef\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\ApplicationInsights.config
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\csc.exe
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\TastyChef.dll.config
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\TastyChef.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\TastyChef.pdb
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\AjaxControlToolkit.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\itextsharp.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.csprojResolveAssemblyReference.cache
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Chin\Desktop\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.pdb
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\ApplicationInsights.config
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\csc.exe
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\vbc.exe
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\TastyChef.dll.config
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\TastyChef.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\TastyChef.pdb
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.Web.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\itextsharp.xml
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.Web.xml
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.csprojAssemblyReference.cache
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.csproj.CoreCompileInputs.cache
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.csproj.CopyComplete
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.dll
+C:\Users\Jun Jie\Downloads\Presentation FYP Tasty Chef Back Up\Presentation FYP Tasty Chef Back Up\TastyChef\obj\Debug\TastyChef.pdb
